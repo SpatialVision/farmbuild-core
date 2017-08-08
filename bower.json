@@ -1,13 +1,12 @@
 {
   "name": "farmbuild-core",
   "description": "Provides a set of APIs common for all projects, including AngularJS and Google Analytics.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "./dist/farmbuild-core.js",
   "homepage": "https://github.com/FarmBuild/farmbuild-core",
   "private": false,
-  "dependencies": {
+  "devDependencies": {
     "angular": "^1.6.5",
-    "angular-mocks": "^1.6.5",
-    "bootstrap": "^3.2.0"
+    "angular-mocks": "^1.6.5"
   }
 }
